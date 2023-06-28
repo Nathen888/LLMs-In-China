@@ -90,7 +90,7 @@
 |74|长虹|长虹超脑 |四川绵阳|✘| |
 |75|孩子王|KidsGPT|江苏南京|✘| |
 |76|中科闻歌|[雅意](https://mp.weixin.qq.com/s/IGYV3t3JRlq4quvNJmZ4vA)|北京|✘||
-|77|澜舟科技| [孟子](https://www.langboat.com/portal/mengzi-model) | 北京|✔||
+|77|智午科技|宽午AI|北京|✘||
 |78|京东|ChatJD|北京|✘||
 |79|智臻智能|小i|上海|✘|小i机器人|
 |80|新华三H3C|百业灵犀|浙江杭州|✘||
